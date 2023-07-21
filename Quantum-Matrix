@@ -1,0 +1,5 @@
+
+density = basis(8,4)
+print(density * density.dag())
+
+Quantum object: dims = [[8], [8]],[8]],[8]] shape = (8, 8, 8, 8), type = oper, isherm = True

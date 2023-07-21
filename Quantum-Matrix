@@ -1,4 +1,8 @@
 
+#Description:
+Quantum matrices to calculate different dimension states
+levels of data processing.
+
 density = basis(8,4)
 print(density * density.dag())
 

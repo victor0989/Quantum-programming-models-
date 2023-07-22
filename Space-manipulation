@@ -18,3 +18,6 @@ As detailed in the channel contraction tutorial.
 #Generic tensor manipulations sample
 >>> tensor_contract(composite(to_super(A), to_super(B)), (1, 3), (4, 6)).dims
 [[[2], [2]], [[3], [3]]]
+
+#Further analysis datasets
+https://qutip.readthedocs.io/en/latest/guide/guide-saving.html#storing-and-loading-datasets

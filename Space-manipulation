@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Space manipulation with tensors and matrix in quantum mechanics
 >>> C = qeye([4])
 >>> E = qeye)[6])

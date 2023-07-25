@@ -1,7 +1,12 @@
+
+from qutip import *
+#This will load all of the user available functions. Often, we also need to import the NumPy and Matplotlib libraries with:
+import numpy as np
 import matplotlib.pyplot as plt
 from qutip import *
 settings.colorblind_safe = True
 
+#2nd SECTION
 import matplotlib.pyplot as plt
 plt.rcParams['savefig.transparent'] = True
 
